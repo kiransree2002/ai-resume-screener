@@ -1,5 +1,7 @@
 # AI Resume Screener
 
+**Live demo:** https://ai-resume-ranker-app.streamlit.app/
+
 An AI-powered tool that reads a job description and a batch of resumes (PDF), scores each candidate from 0 to 100, and produces a ranked shortlist you can download as a PDF.
 
 ## Features
